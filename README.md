@@ -103,7 +103,7 @@ Further improvement (See TODO.md)
 - Q: Why do you do this so slow?
 - A: I have to do almost everything: test, debug, analysis, research, ... @ZeroX-DG is doing his project, so I have to do it myself. I am not a good developer is an other reason. Actually I am not even a developer.
 - Q: Can I customize your tool?
-- A: Yes, you are welcome. But if you find something good, please hep me by make a pull request. It will help me (and others ;) ) so much.
+- A: Yes, you are welcome. But if you find something good, please help me by making a pull request. It will help me (and others ;) ) so much.
 
 ## Author
 - [@Ic3W4ll](https://github.com/dmknght)
